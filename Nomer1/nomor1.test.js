@@ -1,4 +1,4 @@
-const bilPrima = require("./nomer1");
+const bilPrima = require("./nomor1");
 
 test("Test 1", () => {
     expect(bilPrima(10)).toEqual(false);

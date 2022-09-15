@@ -1,4 +1,4 @@
-const faktorial = require("./nomer2");
+const faktorial = require("./nomor2");
 
 test("Test 1", () => {
     expect(faktorial(5)).toEqual(120);

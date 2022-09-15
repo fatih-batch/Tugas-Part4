@@ -1,4 +1,4 @@
-const Palindrome = require("./nomer3");
+const Palindrome = require("./nomor3");
 
 test("Test 1", () => {
     expect(Palindrome("kakak")).toEqual(true);
